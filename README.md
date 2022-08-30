@@ -1,2 +1,2 @@
 My first readme
-The readme in the first directory
+Making some changes in the readme file
